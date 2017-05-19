@@ -14,3 +14,6 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-consul-with-tls-e
 
 
 https://medium.com/@mustwin/centralized-security-with-hashicorp-vault-b4909397c81a <br>
+
+
+http://manuals.gfi.com/en/kerio/connect/content/server-configuration/ssl-certificates/adding-trusted-root-certificates-to-the-server-1605.html <br>
